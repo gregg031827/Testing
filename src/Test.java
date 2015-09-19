@@ -16,7 +16,7 @@ public class Test {
 
         //Inheritance
         Sedan vios = new Sedan();
-        vios.setColor("Red");
+        vios.setColor("Blue");
         vios.setMake("Toyota");
 
         System.out.println(vios.getColor());
